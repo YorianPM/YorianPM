@@ -34,7 +34,7 @@
   <a href="https://github.com/YorianPM">
     <img
       src="https://img.shields.io/badge/GitHub-YorianPM-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub de Yorian Parra"
+      alt="Perfil de GitHub de Yorian Parra"
     >
   </a>
 
@@ -124,7 +124,7 @@
   >
 
   <img
-    src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"
+    src="https://img.shields.io/badge/API_REST-005571?style=for-the-badge"
     alt="API REST"
   >
 </p>
@@ -167,7 +167,7 @@
   >
 
   <img
-    src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"
+    src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"
     alt="Scrum"
   >
 </p>
@@ -185,12 +185,12 @@
 </p>
 
 <p>
-  Sistema fullstack para administrar empleados, solicitudes de vacaciones,
+  Sistema fullstack diseñado para gestionar empleados, solicitudes de vacaciones,
   permisos, control de asistencia y procesamiento de planilla.
 </p>
 
 <ul>
-  <li>Desarrollo de la interfaz utilizando React.js.</li>
+  <li>Desarrollo del frontend utilizando React.js.</li>
   <li>Creación de APIs REST con Node.js y Express.</li>
   <li>Diseño e integración de una base de datos relacional.</li>
   <li>Implementación de módulos para empleados, vacaciones y permisos.</li>
@@ -229,8 +229,8 @@
 </p>
 
 <p>
-  Aplicación web para calcular salarios, bonos, deducciones y generar
-  reportes relacionados con la administración de planillas.
+  Aplicación web para calcular salarios, bonos, deducciones y generar reportes
+  relacionados con la administración de planillas.
 </p>
 
 <ul>
@@ -238,7 +238,7 @@
   <li>Desarrollo de módulos de salarios, bonos y deducciones.</li>
   <li>Generación de reportes administrativos.</li>
   <li>Integración con una base de datos SQL.</li>
-  <li>Desarrollo de frontend y backend para la gestión de información.</li>
+  <li>Desarrollo del frontend y backend para la gestión de información.</li>
 </ul>
 
 <p>
@@ -305,7 +305,7 @@
 <h3>Bachillerato en Ingeniería en Software</h3>
 
 <p>
-  Universidad Internacional de las Américas — UIA
+  <strong>Universidad Internacional de las Américas — UIA</strong>
 </p>
 
 <p>
@@ -317,7 +317,7 @@
 <h3>Bachillerato en Educación Media</h3>
 
 <p>
-  Liceo de Puriscal
+  <strong>Liceo de Puriscal</strong>
 </p>
 
 <p>
@@ -331,10 +331,13 @@
 <h2>🌎 Idiomas</h2>
 
 <ul>
-  <li><strong>Español:</strong> nativo.</li>
   <li>
-    <strong>Inglés:</strong> conversacional, con capacidad para leer,
-    escribir y mantener conversaciones en contextos profesionales.
+    <strong>Español:</strong> nativo.
+  </li>
+
+  <li>
+    <strong>Inglés:</strong> conversacional, con capacidad para leer, escribir
+    y mantener conversaciones en contextos profesionales.
   </li>
 </ul>
 
@@ -351,20 +354,21 @@
     en desarrollo de software, soporte técnico y operaciones de TI.
   </p>
 
-  <p>
-    <a href="mailto:yorianjosue17@gmail.com">
-      yorianjosue17@gmail.com
-    </a>
-    •
-    <a href="https://www.linkedin.com/in/yorian-parra-4abb60241">
-      LinkedIn
-    </a>
-    •
-    <a href="https://github.com/YorianPM">
-      GitHub
-    </a>
-  </p>
+  <a href="mailto:yorianjosue17@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-yorianjosue17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Correo electrónico"
+    >
+  </a>
 
+  <a href="https://www.linkedin.com/in/yorian-parra-4abb60241">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Yorian_Parra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+
+  <br>
   <br>
 
   <p>
