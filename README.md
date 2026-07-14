@@ -218,7 +218,7 @@ Finalizado en 2021
 
 <ul>
 <li><strong>Español:</strong> nativo.</li>
-<li><strong>Inglés:</strong> conversacional, con capacidad para leer, escribir y mantener conversaciones en contextos profesionales.</li>
+<li><strong>Inglés:</strong> conversacional, con capacidad para leer, escribir y mantener conversaciones en contextos profesionales; actualmente mejorando mediante un programa intensivo en el Tecnológico de Costa Rica.</li>
 </ul>
 
 <br>
