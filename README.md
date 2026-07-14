@@ -1,29 +1,29 @@
 <div align="center">
 
-<h1>Hola, soy Yorian Parra 👋</h1>
+<h1>Hi, I'm Yorian Parra 👋</h1>
 
-<h3>Desarrollador de Software | React.js · Node.js · .NET</h3>
+<h3>Software Developer | React.js · Node.js · .NET</h3>
 
 <p>
-Estudiante de Ingeniería en Software próximo a graduarme, con experiencia práctica en el desarrollo de aplicaciones web fullstack, creación de APIs REST y diseño de bases de datos relacionales.
+Software Engineering student expected to graduate in 2026, with hands-on experience developing full-stack web applications, building REST APIs, and designing relational databases.
 </p>
 
 <p>
-Busco mi primera oportunidad profesional para aportar mis conocimientos, continuar aprendiendo y crecer dentro de un equipo tecnológico.
+I am looking for my first professional opportunity where I can contribute my knowledge, continue learning, and grow as part of a technology team.
 </p>
 
 <br>
 
 <a href="https://www.linkedin.com/in/yorian-parra-4abb60241">
-<img src="https://img.shields.io/badge/LinkedIn-Yorian_Parra-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Yorian Parra">
+<img src="https://img.shields.io/badge/LinkedIn-Yorian_Parra-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Yorian Parra LinkedIn">
 </a>
 
 <a href="mailto:yorianjosue17@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo electrónico de Yorian Parra">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Yorian Parra Email">
 </a>
 
 <a href="https://github.com/YorianPM">
-<img src="https://img.shields.io/badge/GitHub-YorianPM-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub de Yorian Parra">
+<img src="https://img.shields.io/badge/GitHub-YorianPM-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Yorian Parra GitHub">
 </a>
 
 </div>
@@ -32,25 +32,25 @@ Busco mi primera oportunidad profesional para aportar mis conocimientos, continu
 
 <hr>
 
-<h2>👨‍💻 Sobre mí</h2>
+<h2>👨‍💻 About Me</h2>
 
 <ul>
-<li>🎓 Estudiante de Ingeniería en Software, con graduación esperada en 2026.</li>
-<li>💻 Experiencia práctica desarrollando aplicaciones web fullstack.</li>
-<li>⚙️ Conocimientos en frontend, backend, APIs REST y bases de datos SQL.</li>
-<li>🛠️ Interés en desarrollo de software, soporte técnico y operaciones de TI.</li>
-<li>📚 Facilidad para aprender nuevas tecnologías y resolver problemas técnicos.</li>
-<li>🤝 Responsable, adaptable y dispuesto a trabajar en equipo.</li>
-<li>📍 San José, Costa Rica.</li>
+<li>🎓 Software Engineering student with an expected graduation date in 2026.</li>
+<li>💻 Hands-on experience developing full-stack web applications.</li>
+<li>⚙️ Knowledge of frontend, backend, REST APIs, and SQL databases.</li>
+<li>🛠️ Interested in software development, technical support, and IT operations.</li>
+<li>📚 Quick learner with strong problem-solving and adaptability skills.</li>
+<li>🤝 Responsible, collaborative, and motivated to take on new challenges.</li>
+<li>📍 Based in San José, Costa Rica.</li>
 </ul>
 
 <br>
 
 <hr>
 
-<h2>🛠️ Tecnologías y herramientas</h2>
+<h2>🛠️ Technologies and Tools</h2>
 
-<h3>Lenguajes</h3>
+<h3>Programming Languages</h3>
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
@@ -58,7 +58,7 @@ Busco mi primera oportunidad profesional para aportar mis conocimientos, continu
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
 </p>
 
-<h3>Frontend</h3>
+<h3>Frontend Development</h3>
 
 <p>
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React.js">
@@ -67,23 +67,23 @@ Busco mi primera oportunidad profesional para aportar mis conocimientos, continu
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap">
 </p>
 
-<h3>Backend</h3>
+<h3>Backend Development</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt=".NET">
-<img src="https://img.shields.io/badge/API_REST-005571?style=for-the-badge" alt="API REST">
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs">
 </p>
 
-<h3>Bases de datos</h3>
+<h3>Databases</h3>
 
 <p>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
 </p>
 
-<h3>Herramientas y metodologías</h3>
+<h3>Tools and Methodologies</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
@@ -97,25 +97,25 @@ Busco mi primera oportunidad profesional para aportar mis conocimientos, continu
 
 <hr>
 
-<h2>🚀 Proyectos destacados</h2>
+<h2>🚀 Featured Projects</h2>
 
-<h3>👥 Sistema de Gestión de Recursos Humanos</h3>
+<h3>👥 Human Resources Management System</h3>
 
 <p>
-<strong>Proyecto de tesis desarrollado para Alquileres Segura.</strong>
+<strong>Thesis project developed for Alquileres Segura.</strong>
 </p>
 
 <p>
-Sistema fullstack diseñado para gestionar empleados, solicitudes de vacaciones, permisos, control de asistencia y procesamiento de planilla.
+A full-stack system designed to manage employees, vacation and leave requests, attendance records, and payroll processing.
 </p>
 
 <ul>
-<li>Desarrollo del frontend utilizando React.js.</li>
-<li>Creación de APIs REST con Node.js y Express.</li>
-<li>Diseño e integración de una base de datos relacional.</li>
-<li>Implementación de módulos para empleados, vacaciones y permisos.</li>
-<li>Implementación de control de asistencia y procesamiento de planilla.</li>
-<li>Proyecto formalmente defendido y aprobado.</li>
+<li>Developed the frontend using React.js.</li>
+<li>Built REST APIs using Node.js and Express.js.</li>
+<li>Designed and integrated a relational database.</li>
+<li>Implemented employee, vacation, and leave management modules.</li>
+<li>Implemented attendance tracking and payroll processing features.</li>
+<li>Successfully presented, defended, and approved as a university thesis project.</li>
 </ul>
 
 <p>
@@ -127,22 +127,22 @@ Sistema fullstack diseñado para gestionar empleados, solicitudes de vacaciones,
 
 <br>
 
-<h3>💰 Sistema de Gestión de Planilla y Bonos</h3>
+<h3>💰 Payroll and Bonus Management System</h3>
 
 <p>
-<strong>Proyecto académico desarrollado para Dunamis.</strong>
+<strong>Academic project developed for Dunamis.</strong>
 </p>
 
 <p>
-Aplicación web para calcular salarios, bonos, deducciones y generar reportes relacionados con la administración de planillas.
+A web application developed to calculate salaries, bonuses, deductions, and generate reports related to payroll management.
 </p>
 
 <ul>
-<li>Implementación de lógica de negocio para operaciones financieras.</li>
-<li>Desarrollo de módulos de salarios, bonos y deducciones.</li>
-<li>Generación de reportes administrativos.</li>
-<li>Integración con una base de datos SQL.</li>
-<li>Desarrollo del frontend y backend para la gestión de información.</li>
+<li>Implemented business logic for financial operations.</li>
+<li>Developed salary, bonus, and deduction management modules.</li>
+<li>Created administrative reporting features.</li>
+<li>Integrated the application with a SQL database.</li>
+<li>Developed frontend and backend components for data management.</li>
 </ul>
 
 <p>
@@ -157,7 +157,7 @@ Aplicación web para calcular salarios, bonos, deducciones y generar reportes re
 <div align="center">
 
 <a href="https://github.com/YorianPM?tab=repositories">
-<img src="https://img.shields.io/badge/Ver_mis_repositorios-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver repositorios de Yorian Parra">
+<img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Yorian Parra repositories">
 </a>
 
 </div>
@@ -166,59 +166,59 @@ Aplicación web para calcular salarios, bonos, deducciones y generar reportes re
 
 <hr>
 
-<h2>💼 Experiencia</h2>
+<h2>💼 Professional Experience</h2>
 
-<h3>Asistente de Servicio al Cliente — Rancho Montezumo</h3>
+<h3>Customer Service Assistant — Rancho Montezumo</h3>
 
 <p>
-<strong>Octubre de 2022 – 2024</strong>
+<strong>October 2022 – 2024</strong>
 </p>
 
 <ul>
-<li>Gestión y organización de información operativa.</li>
-<li>Manejo preciso de datos y procesos internos.</li>
-<li>Atención de requerimientos en un ambiente dinámico.</li>
-<li>Coordinación y seguimiento de tareas.</li>
-<li>Desarrollo de habilidades de comunicación y servicio al cliente.</li>
+<li>Managed and organized operational information.</li>
+<li>Maintained accuracy when handling data and internal processes.</li>
+<li>Responded to customer and operational requests in a dynamic environment.</li>
+<li>Coordinated tasks and followed up on daily activities.</li>
+<li>Developed strong communication, organization, and customer service skills.</li>
 </ul>
 
 <br>
 
 <hr>
 
-<h2>🎓 Educación</h2>
+<h2>🎓 Education</h2>
 
-<h3>Bachillerato en Ingeniería en Software</h3>
+<h3>Bachelor's Degree in Software Engineering</h3>
 
 <p>
 <strong>Universidad Internacional de las Américas — UIA</strong>
 </p>
 
 <p>
-2022 – 2026 | Título en proceso, graduación esperada en 2026.
+2022 – 2026 | Degree in progress, expected graduation in 2026.
 </p>
 
 <br>
 
-<h3>Bachillerato en Educación Media</h3>
+<h3>High School Diploma</h3>
 
 <p>
 <strong>Liceo de Puriscal</strong>
 </p>
 
 <p>
-Finalizado en 2021.
+Completed in 2021.
 </p>
 
 <br>
 
 <hr>
 
-<h2>🌎 Idiomas</h2>
+<h2>🌎 Languages</h2>
 
 <ul>
-<li><strong>Español:</strong> nativo.</li>
-<li><strong>Inglés:</strong> conversacional; capaz de leer, escribir y mantener conversaciones en contextos profesionales. Actualmente mejorando mediante un programa intensivo en el Tecnológico de Costa Rica.</li>
+<li><strong>Spanish:</strong> Native proficiency.</li>
+<li><strong>English:</strong> Conversational proficiency; able to read, write, and communicate in professional contexts. Currently improving through an intensive English program at Tecnológico de Costa Rica.</li>
 </ul>
 
 <br>
@@ -227,14 +227,14 @@ Finalizado en 2021.
 
 <div align="center">
 
-<h2>📫 Contacto</h2>
+<h2>📫 Contact</h2>
 
 <p>
-Actualmente estoy abierto a oportunidades laborales de nivel inicial en desarrollo de software, soporte técnico y operaciones de TI.
+I am currently open to entry-level opportunities in software development, technical support, and IT operations.
 </p>
 
 <a href="mailto:yorianjosue17@gmail.com">
-<img src="https://img.shields.io/badge/Email-yorianjosue17%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo electrónico">
+<img src="https://img.shields.io/badge/Email-yorianjosue17%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/yorian-parra-4abb60241">
@@ -245,7 +245,7 @@ Actualmente estoy abierto a oportunidades laborales de nivel inicial en desarrol
 <br>
 
 <p>
-<i>Construyendo soluciones, aprendiendo constantemente y preparado para nuevos desafíos profesionales.</i>
+<i>Building solutions, continuously learning, and ready to take on new professional challenges.</i>
 </p>
 
 </div>
