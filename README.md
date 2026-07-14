@@ -5,7 +5,7 @@
 <h3>Desarrollador de Software | React.js · Node.js · .NET</h3>
 
 <p>
-Estudiante de Ingeniería en Software próximo a graduarme, con experiencia práctica en desarrollo de aplicaciones web fullstack, creación de APIs REST y diseño de bases de datos relacionales.
+Estudiante de Ingeniería en Software próximo a graduarme, con experiencia práctica en el desarrollo de aplicaciones web fullstack, creación de APIs REST y diseño de bases de datos relacionales.
 </p>
 
 <p>
@@ -195,7 +195,7 @@ Aplicación web para calcular salarios, bonos, deducciones y generar reportes re
 </p>
 
 <p>
-2022 – 2026 | Título en proceso
+2022 – 2026 | Título en proceso, graduación esperada en 2026.
 </p>
 
 <br>
@@ -207,7 +207,7 @@ Aplicación web para calcular salarios, bonos, deducciones y generar reportes re
 </p>
 
 <p>
-Finalizado en 2021
+Finalizado en 2021.
 </p>
 
 <br>
@@ -218,7 +218,7 @@ Finalizado en 2021
 
 <ul>
 <li><strong>Español:</strong> nativo.</li>
-<li><strong>Inglés:</strong> conversacional, con capacidad para leer, escribir y mantener conversaciones en contextos profesionales; actualmente mejorando mediante un programa intensivo en el Tecnológico de Costa Rica.</li>
+<li><strong>Inglés:</strong> conversacional; capaz de leer, escribir y mantener conversaciones en contextos profesionales. Actualmente mejorando mediante un programa intensivo en el Tecnológico de Costa Rica.</li>
 </ul>
 
 <br>
